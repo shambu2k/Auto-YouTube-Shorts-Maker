@@ -5,6 +5,9 @@
 ### dotenv ###
 .env
 
+client_secrets.json
+
+
 ### macOS ###
 # General
 .DS_Store
